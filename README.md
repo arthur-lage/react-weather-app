@@ -1,11 +1,12 @@
 <h1 align="center">
 	React Weather App
-
-	<br>
-	<img src="./src/images/cloudy.svg" />
 </h1>
 
-## Project description
+<p align="center">
+	<img src="./src/images/cloudy.svg" />
+</p>
+
+## ✉ Project description
 
 A simple weather application, created using ReactJS, and the free version of OpenWeatherAPI.
 
@@ -15,7 +16,7 @@ A simple weather application, created using ReactJS, and the free version of Ope
 - OpenWeatherAPI
 - SASS
 
-## How to download and use
+## ⬇️ How to download and use
 
 ```bash
 
@@ -26,7 +27,7 @@ $ yarn start # to start the application
 
 ```
 
-## Where can I use the application?
+## 📎 Where can I use the application?
 
 You can find the app, which is hosted in Vercel.com. To access it, you can enter the link below:
 
