@@ -6,6 +6,10 @@
 	<img src="./src/images/cloudy.svg" />
 </p>
 
+<img src="./assets/app.png" />
+
+
+
 ## ✉ Project description
 
 A simple weather application, created using ReactJS, and the free version of OpenWeatherAPI.
