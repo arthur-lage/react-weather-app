@@ -31,4 +31,4 @@ $ yarn start # to start the application
 
 You can find the app, which is hosted in Vercel.com. To access it, you can enter the link below:
 
-<a href=""https://react-weather-app-arthurlage.vercel.app/>Link to vercel</a>
+<a href="https://react-weather-app-arthurlage.vercel.app">Link to vercel</a>
