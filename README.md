@@ -8,7 +8,7 @@
 
 <img src="./assets/app.png" />
 
-
+<img src="./assets/gif.gif" />
 
 ## ✉ Project description
 
