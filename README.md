@@ -1,7 +1,7 @@
 <h1 align="center">
 	React Weather App
 
-	<br/>
+	<br>
 	<img src="./src/images/cloudy.svg" />
 </h1>
 
