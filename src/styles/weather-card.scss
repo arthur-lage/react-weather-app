@@ -1,0 +1,73 @@
+.card{
+	background: #fff;
+	transition: .2s ease;
+	color: #333;
+	padding: 2rem;
+	border-radius: 2rem;
+	width: 80vw;
+	height: 60vh;
+	box-shadow: 0px 10px 32px 4px rgba(0, 0, 0, 0.5);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	.city-and-id{
+		width: 100%;
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		align-items: center;
+
+		h2{
+			text-align: center;
+			font-size: 2rem;
+		}
+
+		p{
+			font-size: 1.5rem;
+			text-align: right;
+		}
+	}
+
+	.country{
+		font-size: 1.75rem;
+		margin-top: 1rem;
+	}
+
+	.icon{
+		margin-top: 2rem;
+	}
+
+	.temperatures{
+		width: 100%;
+		display: flex;
+		margin-top: auto;
+		align-items: center;
+		justify-content: space-evenly;
+		
+		div{
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			text-transform: uppercase;
+			font-size: 1.75rem;
+			color: #333;
+		
+			h2{
+				font-weight: 400;
+				font-size: 2rem;
+				color: #000;
+				margin-top: .5rem;
+			}
+		}
+	}
+}
+
+.no-card{
+	margin-top: 5rem;
+	transition: .2s ease;
+
+	h2{
+		color: #fff;
+		font-weight: 400;
+	}
+}
